@@ -1,0 +1,9 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "genesis-tecnologia-aplicacao-de-gerenciamento-de-agenda",
+  "short_name": "genesis-tecnologia-aplicacao-de-gerenciamento-de-agenda",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}

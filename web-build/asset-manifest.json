@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/static/js/main.eb9cf6b3.js",
+    "static/js/163.b2ddb2f6.js": "/static/js/163.b2ddb2f6.js",
+    "static/media/MaterialCommunityIcons.ttf": "/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.d0ca82d8ca07ba209aee.ttf",
+    "favicon.ico": "/favicon.ico",
+    "static/media/EvilIcons.ttf": "/static/media/EvilIcons.699664b33ac2837d5bee.ttf",
+    "index.html": "/index.html",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.eb9cf6b3.js.map": "/static/js/main.eb9cf6b3.js.map",
+    "163.b2ddb2f6.js.map": "/static/js/163.b2ddb2f6.js.map"
+  },
+  "entrypoints": [
+    "static/js/163.b2ddb2f6.js",
+    "static/js/main.eb9cf6b3.js"
+  ]
+}
